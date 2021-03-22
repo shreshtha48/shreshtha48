@@ -2,7 +2,7 @@
 - 👀 Physics, Maths and biology fascinate me. I'm constantly looking for project ideas, debates and books which focus on the interesection of these three domains
 - 🌱 I’m currently a sophomore studying Electronics and Communications Engineering 
 - 💞️ I’m looking to collaborate on topics related to Medical Image processing, Signal processing, Machine learning and data science/analytics
-- 📫 How to reach me - Email: modishreshtha48@gmail.com
+- 📫 How to reach me -  You can drop me an Email at my mail: modishreshtha48@gmail.com or you can chat with me on 
                        Linkedin: Shreshtha Modi
 
 <!---
